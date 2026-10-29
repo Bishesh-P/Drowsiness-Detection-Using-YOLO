@@ -114,6 +114,6 @@ The notebook also copies the trained weights to `MyDrive/drowsiness_weights` so 
 
 Next steps: collect 100+ images per class across varied conditions, add Roboflow augmentation, hold out a proper test set, add temporal smoothing and alert logic, and export the model to run locally with `cv2.VideoCapture` for real-time use.
 
-## Author / License
+## Author 
 
-Bishesh Pokharel. License: not specified (add one before publishing).
+Bishesh Pokharel. 
